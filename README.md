@@ -7,8 +7,10 @@ Installation
 Create a virtual enviorment
 ---
 
-To intall the requirements rn
----
+To install the requirements rn
+```
 virtual venv
 sourse venv/bin/activate
 pip[ install -r requirements.txt]
+
+```
