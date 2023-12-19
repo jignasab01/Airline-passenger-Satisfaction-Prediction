@@ -1,2 +1,14 @@
 # Airline-passenger-Satisfaction-Prediction
-This project was compeleted as a part of data science and ai course project.
+This project was compeleted as a part of Data Science and AI course project.
+
+Installation
+---
+
+Create a virtual enviorment
+---
+
+To intall the requirements rn
+---
+virtual venv
+sourse venv/bin/activate
+pip[ install -r requirements.txt]
