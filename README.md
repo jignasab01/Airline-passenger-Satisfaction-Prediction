@@ -10,7 +10,7 @@ Create a virtual enviorment
 To install the requirements rn
 ```
 virtual venv
-sourse venv/bin/activate
+sourse venv\Scripts\activate
 pip[ install -r requirements.txt]
 
 ```
